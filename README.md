@@ -1,7 +1,6 @@
 # Matthew Sass
 
 📧 matthew.sass35@gmail.com  
-🌐 [GitHub](https://github.com/matthew-sass)  
 📍 Vancouver, BC  
 
 ---
