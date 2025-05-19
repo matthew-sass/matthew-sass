@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computing Science undergraduate at Simon Fraser University with a passion for creating clean, efficient, and user-focused software. I have experience working across full-stack development, UI/UX design, and real-time systems, and I thrive in collaborative, agile environments. I'm always looking to build impactful applications and grow as a developer.
+I'm a Computing Science undergraduate at Simon Fraser University with a passion for creating clean, efficient, and user-focused software. I have experience working across full-stack development, UI/UX design, and real-time systems, and I thrive in collaborative environments. I'm always looking to build impactful applications and grow as a developer.
 
 ---
 
