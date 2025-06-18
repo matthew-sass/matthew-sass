@@ -15,7 +15,7 @@ I'm a Computing Science undergraduate at Simon Fraser University with a passion 
 
 **Simon Fraser University**  
 Bachelor of Science in Computing Science  
-*September 2021 – March 2026*  
+*September 2021 – April 2026*  
 
 Relevant coursework:  
 - Mobile Applications Programming and Design  
